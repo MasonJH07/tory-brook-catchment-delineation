@@ -5,7 +5,7 @@ This project uses LIDAR elevation data and hydrological GIS tools to:
 - Outline the ~15 km² Tory Brook catchment draining to the Newnham Park gauge
 - Extract the stream network from the terrain
 - Analyse rainfall vs. river level response during a real, documented storm event, validated against an official Environment Agency flood alert
- [[Read the full methodology summary](https://github.com/MasonJH07/tory-brook-catchment-delineation/blob/main/Tory%20Brook%20Catchment%20Delineation%20%26%20Storm%20Response%20Analysis.pdf)](Tory_Brook_Catchment_Delineation___Storm_Response_Analysis.pdf)
+ [[Read the full methodology summary](https://github.com/MasonJH07/tory-brook-catchment-delineation/blob/main/Tory%20Brook%20Catchment%20Delineation%20%26%20Storm%20Response%20Analysis.pdf)]
 # Final Map
 ![Tory Brook Catchment Map](tory_brook_final_map.png)
 [Download high-resolution PDF](tory_brook_final_map.pdf)
