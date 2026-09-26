@@ -14,7 +14,7 @@ This project uses LIDAR elevation data and hydrological GIS tools to:
 
 # Storm Response Analysis
 For the 11–12 November 2025 storm event, the smaller Tory Brook catchment responded ~1h 15min faster than the larger River Plym catchment, consistent with catchment scale governing hydrological response time and validated against a real EA flood alert issued for the event.
-![Rainfall vs. River Level Chart](tory_brook_rainfall_vs_level_chart.png)
+[[Rainfall vs. River Level Chart](https://github.com/MasonJH07/tory-brook-catchment-delineation/blob/main/tory_brook_rainfall_vs_level_chart%20(1).png)]
 
 [[Read the full storm analysis write-up](https://github.com/MasonJH07/tory-brook-catchment-delineation/blob/main/Step%2014%20Rainfall%20vs.%20River%20Level%20Analysis%20Summary.pdf)]
 
